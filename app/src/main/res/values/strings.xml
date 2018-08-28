@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MtpDemo</string>
+    <string name="send_message">发送消息</string>
+    <string name="read_message">读取消息</string>
+    <string name="copy_file">拷贝文件</string>
+    <string name="create_file_fail">消息文件创建失败</string>
+    <string name="new_phone">新手机</string>
+    <string name="old_phone">旧手机</string>
+
+</resources>
